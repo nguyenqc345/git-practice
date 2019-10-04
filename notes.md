@@ -17,8 +17,11 @@ three step commiting process
 * make code changes, saved and run, no errors
 * add code changes to the stage
     git add file_that_change.rb
-    git add. (Adds all the files in the folder)
+    git add . (Adds all the files in the folder)
 * Commit changes
     git commit -m "My commit message"
 
 
+Show History 
+---------------------------------
+    git log

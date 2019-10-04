@@ -25,3 +25,22 @@ three step commiting process
 Show History 
 ---------------------------------
     git log
+
+To duplicate a project onto a new computer
+--------------------------------------------
+    git clone name_of_file
+
+To pull changes from one computer to another
+--------------------------------------------
+    git pull
+
+To save changes to github
+-----------------------------------------------
+    git push
+To sync up repository to computer
+--------------------------------------------------
+    git remote add origin Name_of_repository_on_github_link
+    git push -u origin 
+    
+Readme.md
+
